@@ -1,6 +1,6 @@
 # SOA-Policy-HealthCare
 
-This respository houses the offical Service-Oriented Architecture (SOA) Policy for healthcare designed to govern the development, deployment, and operation of digital healthcare services. Built with **secuirty**, **interoperability**, and **compliance** in mind, this policy enables scalable, modular systems that support:
+This repository houses the offical Service-Oriented Architecture (SOA) Policy for healthcare designed to govern the development, deployment, and operation of digital healthcare services. Built with **secuirty**, **interoperability**, and **compliance** in mind, this policy enables scalable, modular systems that support:
 - Patient data sharing
 - Clinical decision support
 - Remote care and telehealth
@@ -8,11 +8,11 @@ This respository houses the offical Service-Oriented Architecture (SOA) Policy f
 - Real time analytics
  
 ## Goals
-  **Enable Interoperability**: Use HL7/FHIR to ensure seamless data exchange.
-  **Ensure Security**: Embed encryption, RBAC, and audit trails into all services.
-  **Maintain Compliance**: Enforce HIPPA,GDPR, and ISO27001
-  **Promote Modularity**: Design resuable, adaptable services for healthcare workflows.
-  **Support Scalability**: Use service registries, APIs, and SOA buses for dynamic system growth.
+  - **Enable Interoperability**: Use HL7/FHIR to ensure seamless data exchange.
+  - **Ensure Security**: Embed encryption, RBAC, and audit trails into all services.
+  - **Maintain Compliance**: Enforce HIPPA,GDPR, and ISO27001
+  - **Promote Modularity**: Design resuable, adaptable services for healthcare workflows.
+  - **Support Scalability**: Use service registries, APIs, and SOA buses for dynamic system growth.
 
 ## Polcy Contents
 
